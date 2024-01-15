@@ -3,7 +3,7 @@ package com.citiustech.userportal.service;
 
 import javax.servlet.http.HttpServletRequest;
 
-import com.citiustech.userportal.Model.AppUser;
+import com.citiustech.userportal.entity.AppUser;
 import com.citiustech.userportal.config.JwtTokenProvider;
 import com.citiustech.userportal.repo.UserRepository;
 import lombok.RequiredArgsConstructor;

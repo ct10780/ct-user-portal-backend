@@ -3,7 +3,7 @@ package com.citiustech.userportal.dto;
 
 import java.util.List;
 
-import com.citiustech.userportal.Model.AppUserRole;
+import com.citiustech.userportal.entity.AppUserRole;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import lombok.NoArgsConstructor;

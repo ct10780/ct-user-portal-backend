@@ -10,4 +10,6 @@ public class TestingController {
     public String testMethod(){
         return "Welcome to the User Portal";
     }
+
+    // need t create one customer controller which load all the customer
 }

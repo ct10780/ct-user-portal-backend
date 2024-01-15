@@ -1,4 +1,4 @@
-package com.citiustech.userportal.Model;
+package com.citiustech.userportal.entity;
 
 
 import lombok.Data;
@@ -35,5 +35,8 @@ public class AppUser {
 
     @ElementCollection(fetch = FetchType.EAGER)
     List<AppUserRole> appUserRoles;
+
+    private String companyName;
+
 
 }

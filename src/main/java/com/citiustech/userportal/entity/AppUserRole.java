@@ -1,4 +1,4 @@
-package com.citiustech.userportal.Model;
+package com.citiustech.userportal.entity;
 
 import org.springframework.security.core.GrantedAuthority;
 

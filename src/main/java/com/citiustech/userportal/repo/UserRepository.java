@@ -3,7 +3,7 @@ package com.citiustech.userportal.repo;
 
 import javax.transaction.Transactional;
 
-import com.citiustech.userportal.Model.AppUser;
+import com.citiustech.userportal.entity.AppUser;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 
